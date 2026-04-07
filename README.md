@@ -59,6 +59,5 @@ Make sure webcam is connected and YOLO weights are placed inside the models/ fol
 - Mobile app deployment  
 - Edge device optimization  
 
-## 👨‍💻 Author
-Avishka S  
-VIT Bhopal
+## 👨‍💻 Coder
+Avishka
