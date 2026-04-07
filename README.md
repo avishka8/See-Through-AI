@@ -20,14 +20,14 @@ See Through AI is a real-time AI-powered assistive vision system designed to hel
 - pyttsx3 / gTTS
 
 ## 📁 Project Structure
-See-Through-AI/
-├── models/              # YOLO weights / trained models
-├── utils/               # Helper functions
-├── main.py              # Main entry point
-├── detect.py            # Object detection logic
-├── voice.py             # Text-to-speech module
-├── requirements.txt     # Dependencies
-└── README.md
+
+- models/              → YOLO trained weights / model files  
+- utils/               → Helper functions (preprocessing, etc.)  
+- main.py              → Main entry point (run this file)  
+- detect.py           → Object detection logic  
+- voice.py            → Text-to-speech module  
+- requirements.txt    → Python dependencies  
+- README.md           → Project documentation
 
 ## ⚙️ Installation
 git clone https://github.com/avishka8/See-Through-AI.git  
